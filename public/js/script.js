@@ -1,5 +1,5 @@
 const answers = [
-    "Are you sure?",
+    "Please?",
     "Are you really sure??",
     "Are you really realy sure???",
     "Think again?",
